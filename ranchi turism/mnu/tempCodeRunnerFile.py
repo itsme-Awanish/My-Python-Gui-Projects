@@ -1,0 +1,1 @@
+foodservicevalue = IntVar()

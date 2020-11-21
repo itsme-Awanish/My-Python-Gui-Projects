@@ -1,0 +1,2 @@
+marquee = Marquee(f3, text="This Application is developed by Awanish Kumar for those who really intrested to explore the new Horizons of Ranchi the heart of Jharkhand", borderwidth=1, relief="sunken")
+marquee.pack(side="top", fill="x", pady=0)
