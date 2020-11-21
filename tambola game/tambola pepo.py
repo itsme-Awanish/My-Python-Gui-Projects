@@ -1,11 +1,5 @@
 '''
-To do List of the game 
-1: => create the frame to make the proper allign of the tickets and the Tambola Board . done()
-2: => Create the ticket for the Tambola Game (For Now the algorithm of the ticket will be constant but latter the ticket will be random )
-3: =>Create the main menu for the tambola game and the documentation section of the tambola game 
-4 : => Create the registration  form for filling the name of the players 
-5 : => Create the Exit buton for the game 
-6: => Wraping up the project for the host 
+This is the Another version of the Game Tambola
 '''
 #imprting the Necessary file's
 import tkinter as tk
